@@ -4,8 +4,8 @@ Python을 배우기 전, 먼저 준비해야 할 것들이 몇 가지 있습니�
 +) 본 글은 Windows 기준으로 작성되어있습니다. 참고 부탁드립니다.
 
 **Table of Contents**
-- [Python 다운받기]()
-- [VSCode 다운받기]()
+- [Python 다운받기](#python-다운받기)
+- [VSCode 다운받기](#vscode-다운받기)
 
 ### Python 다운받기
 
