@@ -1,5 +1,6 @@
 # Very simple up and down game.
 # Can be only played once, with no score counting.
+# This will be worked on intermediate / hard levels.
 import random
 
 def print_menu():
