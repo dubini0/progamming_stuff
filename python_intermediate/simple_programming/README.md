@@ -7,5 +7,6 @@
 
 ## Intermediate
 - [Quiz game](https://github.com/dubini0/progamming_stuff/tree/main/python_intermediate/simple_programming/%5Bintermediate%5D%20quiz_game) : 주어진 질문/정답을 가지고 단순한 퀴즈를 수행할 수 있는 CLI 프로그램입니다.
+- [Rock Paper Scissors](https://github.com/dubini0/progamming_stuff/tree/main/python_intermediate/simple_programming/%5Bintermediate%5D%20rock_paper_scissors) : 컴퓨터와 가위바위보를 할 수 있고, 그에 대한 결과를 기록하는 CLI 프로그램입니다.
 
 ## Hard
