@@ -7,3 +7,6 @@
 ## 언어
 - Python
 - (추가 예정)
+
+## Profile
+link : https://www.acmicpc.net/user/subin0630
