@@ -1,3 +1,6 @@
+# https://dokhakdubini.tistory.com/527
+# for explanation
+
 from itertools import product
 
 def get_hash(n_list):
