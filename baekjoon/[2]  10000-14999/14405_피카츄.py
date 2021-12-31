@@ -1,8 +1,8 @@
 s = input()
 
-s = s.replace("pi", "").replace("ka", "").replace("chu", "")
+s = s.replace("pi", " ").replace("ka", " ").replace("chu", " ")
 
-if s == "":
+if s.strip() == "":
     print("YES")
 else:
     print("NO")
