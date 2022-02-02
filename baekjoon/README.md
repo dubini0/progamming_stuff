@@ -9,5 +9,8 @@
 - (추가 예정)
 
 ## Profile
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=subin0630)](https://solved.ac/subin0630/)    
+
 Baekjoon Profile link : https://www.acmicpc.net/user/subin0630   
 solved.ac Profile link : https://solved.ac/profile/subin0630
