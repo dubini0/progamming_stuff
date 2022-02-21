@@ -1,3 +1,5 @@
+# https://dokhakdubini.tistory.com/549
+# blog post for this challenge
 
 def get_score(result):
     score = []
