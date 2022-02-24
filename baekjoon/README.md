@@ -6,6 +6,7 @@
 
 ## 언어
 - Python
+- Kotlin
 - (추가 예정)
 
 ## Profile
