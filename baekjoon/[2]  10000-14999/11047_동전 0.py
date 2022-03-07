@@ -9,7 +9,7 @@ sum, cnt = 0, 0
 for i in intarr:
     if sum == k:
         break
-    if (k-sum) > i:
+    if (k-sum) >= i:
         q = (k-sum) // i
         sum += i * q
         cnt += q
