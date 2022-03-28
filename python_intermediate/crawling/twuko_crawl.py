@@ -5,7 +5,7 @@ import re
 
 def tweet_to_csv(tweet_data):
     with open(f'twuko_result_{time.time()}.csv', 'a+', newline='', encoding='utf-8') as f:
-        #header = ['URL', 'id', 'Content']
+        #header = ['URL', 'id']
         writer = csv.writer(f)
         #writer.writerow(header)
         writer.writerow('')
