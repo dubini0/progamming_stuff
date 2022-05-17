@@ -1,5 +1,5 @@
 # Note) This code works fine, but it does not satisfy the time limit.
-# If you want to see the 'fast' code, see 1406_에디터_success.py
+# If you want to see the 'fast' code, see 1406_에디터_.py
 
 import sys
 
